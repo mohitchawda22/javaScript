@@ -1,0 +1,17 @@
+/* nav{
+    background-color: aqua;
+    display: flex;
+} */
+nav li {
+    list-style: none;
+    margin: auto;
+} 
+
+.bulb_container{
+    height: 100px;
+    width: 100px;
+}
+
+.bulb{
+    background-color: yellow;
+}
